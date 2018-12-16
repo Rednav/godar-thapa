@@ -1,0 +1,20 @@
+.title_image {
+  padding-left: center;
+  height: 100px;
+}
+.nepali_font {
+  font-family: "Preeti" !important;
+}
+.english_font {
+  font-family: "Verdana";
+}
+.hide {
+  display: none;
+}
+tr td:nth-child(5) {
+  font-family: monospace;
+}
+
+tr td:nth-child(6) {
+  font-family: monospace;
+}
